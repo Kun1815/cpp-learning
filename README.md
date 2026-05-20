@@ -1,2 +1,5 @@
 # cpp-learning
-the process of my C++ learning
+我的C++学习过程
+
+已有的项目
+#1单词计数器，统计.txt文件里的单词及对应的数量
